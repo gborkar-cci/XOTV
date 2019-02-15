@@ -1,0 +1,17 @@
+{
+    "provider_name" : "BSNL",
+    "product_name" : "100MB"
+}
+
+{
+    "provider_name" : "Indane energy",
+    "product_name" : "Standard tariff",
+  	"variation_type" : "North"
+}
+
+{
+    "provider_name" : "Indane energy",
+    "product_name" : "Standard tariff",
+  	"variation_type" : "north",
+  	"monthly_price" : "12.12"
+}
